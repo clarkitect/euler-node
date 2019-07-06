@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Jefferson Clark",
+      "authorEmail": "jefferson@clarkitect.net",
+      "authorUrl": ""
+    }
+  }
+}
