@@ -2,11 +2,11 @@
   "name": "euler-node",
   "version": "0.0.0",
   "description": "solving a few euler problems",
-  "homepage": "",
+  "homepage": "https://github.com/clarkitect/euler-node",
   "author": {
     "name": "Jefferson Clark",
     "email": "jefferson@clarkitect.net",
-    "url": ""
+    "url": "https://github.com/clarkitect"
   },
   "files": [
     "lib"
@@ -16,6 +16,8 @@
     "euler"
   ],
   "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-arrays": "^2.0.0",
     "eslint": "^5.9.0",
     "eslint-config-prettier": "^3.3.0",
     "eslint-config-xo": "^0.25.0",

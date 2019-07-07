@@ -1,4 +1,4 @@
-# euler-node [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# euler-node
 
 > solving a few euler problems
 
