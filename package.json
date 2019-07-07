@@ -2,11 +2,11 @@
   "name": "euler-node",
   "version": "0.0.0",
   "description": "solving a few euler problems",
-  "homepage": "",
+  "homepage": "https://github.com/clarkitect/euler-node",
   "author": {
     "name": "Jefferson Clark",
     "email": "jefferson@clarkitect.net",
-    "url": ""
+    "url": "https://github.com/clarkitect"
   },
   "files": [
     "lib"
